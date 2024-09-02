@@ -1,0 +1,2 @@
+# -Early-Detection-and-Prediction-of-Liquidation-Cascades-in-Cryptocurrency-Markets
+This repository contains a master’s thesis focused on predicting Bitcoin futures liquidation cascades using machine learning models. The study combines GARCH, HAR, and LSTM models, leveraging hourly data from 2021 to 2024. It aims to provide early warnings and mitigate investor losses. Please cite this work appropriately if used.
